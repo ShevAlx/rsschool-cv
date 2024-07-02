@@ -1,1 +1,1 @@
-(https://github.com/ShevAlx/rsschool-cv.git)
+https://github.com/ShevAlx/rsschool-cv.git
