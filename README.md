@@ -1,1 +1,0 @@
-https://ShevAlx.github.io/rsschool-cv/cv
