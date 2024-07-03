@@ -1,1 +1,0 @@
-https://shevalx.github.io/rsschool-cv/
