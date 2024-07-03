@@ -4,7 +4,6 @@ body {
     color: #fff;
     text-transform: uppercase;
     text-align: center;
-    white-space: nowrap;
 }
 
 .container{
@@ -18,5 +17,5 @@ header{
 }
 
 .main-block{
-    padding: 20% 0;
+    padding: 2% 0;
 }
