@@ -1,0 +1,22 @@
+body {
+    height: 100%;
+    background: #000;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+.container{
+    max-width: 1100px;
+    height: 100%;
+    margin: auto;
+}
+
+header{
+    padding: 5% 0;
+}
+
+.main-block{
+    padding: 25% 0;
+}
